@@ -7,8 +7,8 @@
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [Bugreport1](https://github.com/Alex-stagemaster/Java-1.1._KeyValidator/issues/2)
-* [Bugreport2](https://github.com/Alex-stagemaster/Java-1.1._KeyValidator/issues/1)
+* [Валидные ключи выдают статус FAIL](https://github.com/Alex-stagemaster/Java-1.1._KeyValidator/issues/2)
+* [Невалидный ключ выдаёт статус OK](https://github.com/Alex-stagemaster/Java-1.1._KeyValidator/issues/1)
 
 ## Описание процесса тестирования
 
